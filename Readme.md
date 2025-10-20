@@ -188,17 +188,12 @@ If you use this code, please cite:
 
 @software{glacier_movement_prediction_2025,
 title={Glacier Movement Prediction System},
-author={[Your Name]},
+author={[Subhash R]},
 year={2025},
-note={Bharatiya Antariksh Hackathon 2025}
 }
 
 text
 
-## License
-
-MIT License
-
 ## Contact
 
-For questions or issues, please contact [your-email]
+For questions or issues, please contact [subhashravichandran7432@gmail.com]
