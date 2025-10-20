@@ -1,0 +1,122 @@
+[
+  {
+    "year": "2020",
+    "region": "R1",
+    "sensor": "Sentinel2",
+    "num_images": 1,
+    "lake_area_pixels": 0,
+    "lake_area_km2": 0.0,
+    "max_probability": 0.4952540993690491,
+    "mean_probability": NaN
+  },
+  {
+    "year": "2021",
+    "region": "R1",
+    "sensor": "Sentinel2",
+    "num_images": 1,
+    "lake_area_pixels": 29,
+    "lake_area_km2": 0.0261,
+    "max_probability": 0.5141703486442566,
+    "mean_probability": 0.5070372223854065
+  },
+  {
+    "year": "2022",
+    "region": "R1",
+    "sensor": "Sentinel2",
+    "num_images": 1,
+    "lake_area_pixels": 5,
+    "lake_area_km2": 0.0045,
+    "max_probability": 0.5091979503631592,
+    "mean_probability": 0.5057457685470581
+  },
+  {
+    "year": "2023",
+    "region": "R1",
+    "sensor": "Sentinel2",
+    "num_images": 1,
+    "lake_area_pixels": 0,
+    "lake_area_km2": 0.0,
+    "max_probability": 0.3764156103134155,
+    "mean_probability": NaN
+  },
+  {
+    "year": "2024",
+    "region": "R1",
+    "sensor": "Sentinel2",
+    "num_images": 1,
+    "lake_area_pixels": 0,
+    "lake_area_km2": 0.0,
+    "max_probability": 0.4324493408203125,
+    "mean_probability": NaN
+  },
+  {
+    "year": "2025",
+    "region": "R1",
+    "sensor": "Sentinel2",
+    "num_images": 2,
+    "lake_area_pixels": 0,
+    "lake_area_km2": 0.0,
+    "max_probability": 0.496240496635437,
+    "mean_probability": NaN
+  },
+  {
+    "year": "2020",
+    "region": "R2",
+    "sensor": "Sentinel2",
+    "num_images": 1,
+    "lake_area_pixels": 0,
+    "lake_area_km2": 0.0,
+    "max_probability": 0.30621883273124695,
+    "mean_probability": NaN
+  },
+  {
+    "year": "2021",
+    "region": "R2",
+    "sensor": "Sentinel2",
+    "num_images": 1,
+    "lake_area_pixels": 0,
+    "lake_area_km2": 0.0,
+    "max_probability": 0.30621883273124695,
+    "mean_probability": NaN
+  },
+  {
+    "year": "2022",
+    "region": "R2",
+    "sensor": "Sentinel2",
+    "num_images": 1,
+    "lake_area_pixels": 0,
+    "lake_area_km2": 0.0,
+    "max_probability": 0.30621883273124695,
+    "mean_probability": NaN
+  },
+  {
+    "year": "2023",
+    "region": "R2",
+    "sensor": "Sentinel2",
+    "num_images": 1,
+    "lake_area_pixels": 0,
+    "lake_area_km2": 0.0,
+    "max_probability": 0.30621883273124695,
+    "mean_probability": NaN
+  },
+  {
+    "year": "2024",
+    "region": "R2",
+    "sensor": "Sentinel2",
+    "num_images": 1,
+    "lake_area_pixels": 0,
+    "lake_area_km2": 0.0,
+    "max_probability": 0.30621883273124695,
+    "mean_probability": NaN
+  },
+  {
+    "year": "2025",
+    "region": "R2",
+    "sensor": "Sentinel2",
+    "num_images": 1,
+    "lake_area_pixels": 0,
+    "lake_area_km2": 0.0,
+    "max_probability": 0.30621883273124695,
+    "mean_probability": NaN
+  }
+]

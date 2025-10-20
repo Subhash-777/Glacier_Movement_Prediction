@@ -1,0 +1,7 @@
+data/
+models/
+features/
+scripts\evaluate\__pycache__
+scripts\preprocess\__pycache__
+scripts\train\__pycache__
+scripts\utils\__pycache__
